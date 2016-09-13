@@ -6,7 +6,7 @@ vcfSummarizer.py - takes a VCF file and a filter python script and creates a fil
 
 filterBoechera.py - the filter file for use with vcfSummarizer filters SNPs based on genotype quality and proximity to called indels
 
-summary.py - a parser used to process snap matricies
+summary.py - a parser used to process snp matricies
 
 getRegions.py - used to create the 'pseudohaplotypes' takes a list of regions and a SNP matrix and produces haplotypes
 
