@@ -1,4 +1,4 @@
-A repository of programs used to analyze apomictic and sexual boater genomes.
+A repository of programs used to analyze apomictic and sexual boechera genomes.
 
 Most all of these scripts have help info, if run with a -h option will give details on inputs needed.
 
